@@ -1,0 +1,14 @@
+.game-img {
+  background: transparent;
+  height: 200px;
+  margin: 10px;
+  position: relative;
+  width: 200px;
+ 
+}
+
+.game-img > img {
+object-fit: contain;
+height: 175px;
+width: 175px;
+}
